@@ -1,0 +1,15 @@
+
+B
+java:S1172"-Remove this unused method parameter "nombre".(¥ê¼3
+5
+java:S6905"Don't use the query "SELECT *".(ðÂ¨ˆ
+C	java:S108")Either remove or fill this block of code.(¦¿’ùûÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(äìÎÆ
+5
+java:S69056"Don't use the query "SELECT *".(àÕ‡Ú
+@	java:S106C"+Replace this use of System.out by a logger.(âå‹º
+E	java:S106P"+Replace this use of System.out by a logger.(ýÛÚÆþÿÿÿÿ
+E	java:S106S"+Replace this use of System.out by a logger.(­åû‡üÿÿÿÿ
+E	java:S106^"+Replace this use of System.out by a logger.(×êæñûÿÿÿÿ
+@	java:S106k"+Replace this use of System.out by a logger.(ã‰”Ý
+@	java:S106n"+Replace this use of System.out by a logger.(Çïê¤

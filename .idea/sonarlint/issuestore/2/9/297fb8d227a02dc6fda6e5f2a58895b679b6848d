@@ -1,0 +1,31 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(¦ÆÇû
+E	java:S106"+Replace this use of System.out by a logger.(•¤çºûÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(ª»¾F
+@	java:S106"+Replace this use of System.out by a logger.(±Î†Á
+@	java:S106"+Replace this use of System.out by a logger.(ìà½ò
+?	java:S106"+Replace this use of System.out by a logger.(ê¶öD
+@	java:S106"+Replace this use of System.out by a logger.(±‡íÖ
+?	java:S106"+Replace this use of System.out by a logger.(ª£›?
+E	java:S106"+Replace this use of System.out by a logger.(—¡½øÿÿÿÿ
+f	java:S1280"LEnd this switch case with an unconditional break, return or throw statement.(ÌÊëÎüÿÿÿÿ
+E	java:S1066"+Replace this use of System.out by a logger.(ô±Èıÿÿÿÿ
+@	java:S1069"+Replace this use of System.out by a logger.(¨ùÂ‡
+W
+java:S1854B"<Remove this useless assignment to local variable "producto".(ß´»İúÿÿÿÿ
+H
+java:S1172?"-Remove this unused method parameter "nombre".(‘‘ß£ûÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(·Ø‡ç
+H
+java:S1481B"-Remove this unused "producto" local variable.(ß´»İúÿÿÿÿ
+E	java:S106H"+Replace this use of System.out by a logger.(¼ß¥ƒøÿÿÿÿ
+E	java:S106J"+Replace this use of System.out by a logger.(®Ÿ„òÿÿÿÿÿ
+E	java:S106L"+Replace this use of System.out by a logger.(–—Àùÿÿÿÿ
+@	java:S106\"+Replace this use of System.out by a logger.(‘şì½
+E	java:S106_"+Replace this use of System.out by a logger.(ªÕÛÿÿÿÿÿ
+@	java:S106a"+Replace this use of System.out by a logger.(îóª‹
+@	java:S106c"+Replace this use of System.out by a logger.(ÌÙ¯
+E	java:S106m"+Replace this use of System.out by a logger.(ğ¦½“şÿÿÿÿ
+E	java:S106t"+Replace this use of System.out by a logger.(±©ô¦øÿÿÿÿ
+E	java:S106x"+Replace this use of System.out by a logger.(ñ½ê“úÿÿÿÿ
+@	java:S106z"+Replace this use of System.out by a logger.(Åõªä
